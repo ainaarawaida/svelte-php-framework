@@ -1,0 +1,16 @@
+{
+  "_vendor-C95XUVD1.js": {
+    "file": "assets/vendor-C95XUVD1.js"
+  },
+  "main.js": {
+    "css": [
+      "assets/main-SzuScFzD.css"
+    ],
+    "file": "assets/main-WTwHz9pb.js",
+    "imports": [
+      "_vendor-C95XUVD1.js"
+    ],
+    "isEntry": true,
+    "src": "main.js"
+  }
+}
